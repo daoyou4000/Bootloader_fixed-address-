@@ -9,3 +9,6 @@ When the bootloader implement GPIO, especially Timer, the bootloader is not able
 During the debug, the interrupt is still there and **application does not work if registers are not reset**.
 The target of this deinit process is totally the reverse process of the intialization process, and registers is good to be reset before the initialization. 
 ![image](https://github.com/daoyou4000/Bootloader_fixed-address-/blob/main/images/Intialization.PNG)
+
+Then the deinitilization process should follow the rever sequence. 
+![image](https://github.com/daoyou4000/Bootloader_fixed-address-/blob/main/images/Deinit.PNG)
