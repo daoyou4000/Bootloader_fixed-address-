@@ -1,0 +1,3 @@
+bootloader.c:24:6:vL431_DeInitAndJump	16	static
+bootloader.c:94:10:readWord	24	static
+bootloader.c:101:6:jumpToApp	24	static,ignoring_inline_asm

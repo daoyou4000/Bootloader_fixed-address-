@@ -1,0 +1,7 @@
+"Sources/MCU_Core/syscalls.o"
+"Sources/MCU_Core/sysmem.o"
+"Sources/bootloader.o"
+"Sources/hardware.o"
+"Sources/isr.o"
+"Sources/main.o"
+"Startup/startup_stm32l431rctx.o"
