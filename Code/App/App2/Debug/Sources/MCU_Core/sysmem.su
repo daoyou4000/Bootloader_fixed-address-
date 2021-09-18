@@ -1,0 +1,2 @@
+sysmem.c:73:7:_sbrk	32	static
+sysmem.c:109:6:SystemInit	4	static

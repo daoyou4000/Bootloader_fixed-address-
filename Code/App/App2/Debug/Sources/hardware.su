@@ -1,0 +1,3 @@
+core_cm4.h:1679:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+hardware.c:31:6:vInitSystemClock	4	static
+hardware.c:87:6:vInitTaskTimer	8	static
